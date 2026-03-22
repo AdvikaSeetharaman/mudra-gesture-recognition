@@ -40,6 +40,6 @@ This project implements a real-time Bharatanatyam mudra recognition system using
 This repository supports the paper:
 "Hierarchical Real-Time Gesture Interpretation of Bharatanatyam Mudras Using Bidirectional LSTM Networks"
 
-## upplementary Note
+## Supplementary Note
 Dataset and additional implementation details can be provided upon request.
 
