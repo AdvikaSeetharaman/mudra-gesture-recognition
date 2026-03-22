@@ -26,5 +26,20 @@ This project implements a real-time Bharatanatyam mudra recognition system using
 - NumPy
 - scikit-learn
 
-## ▶️ How to Run
-1. Install dependencies:
+## How to Run
+1. Install dependencies: pip install tensorflow mediapipe opencv-python numpy scikit-learn matplotlib
+2. Run the notebook: mudra_recognition_model.ipynb
+
+
+## Output
+- Real-time gesture recognition
+- Hierarchical prediction (mudra + meaning)
+- Probability visualization
+
+## Research Context
+This repository supports the paper:
+"Hierarchical Real-Time Gesture Interpretation of Bharatanatyam Mudras Using Bidirectional LSTM Networks"
+
+## upplementary Note
+Dataset and additional implementation details can be provided upon request.
+
